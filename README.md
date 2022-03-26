@@ -15,3 +15,15 @@ Following is the architecture diagram
 
 
 Note: you dont need a pi cam necessarily, you can use any Ip Camera
+
+# Hardware Used
+1) Raspberry Pi 4
+2) Remote server (any computer capable or running ML Algos)
+3) Arduino boards and assorted modules
+4) IP camera: can be a mobile phone cam or even a Pi cam
+
+# Authors
+* **Elton Lemos** - [icefrostpeng](https://github.com/icefrostpeng)
+* **Abhishek Ghoshal** - [abhighosh98](https://github.com/abhighosh98)
+* **Aditya Aspat** - Not on Git yet
+
