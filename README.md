@@ -7,12 +7,12 @@ The raspbery pi is good for OpenCv but we soon realized that the frames were slo
 
 # Working
 
-Following is the connection diagram
+Following is the Connection Diagram
 
 ![Data connections](https://user-images.githubusercontent.com/61613837/160155450-33876a80-1a64-42f1-a62f-7efb6bfac962.png)
 
 
-Following is the architecture diagram
+Following is the Architecture Diagram
 ![Architecture Block](https://user-images.githubusercontent.com/61613837/160155640-6d58a3ee-d64b-4f15-aa79-bcf811c5c516.png)
 
 # Features
