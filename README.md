@@ -13,8 +13,8 @@ Following is the connection diagram
 Following is the architecture diagram
 ![Architecture Block](https://user-images.githubusercontent.com/61613837/160155640-6d58a3ee-d64b-4f15-aa79-bcf811c5c516.png)
 
-
-Note: you dont need a pi cam necessarily, you can use any Ip Camera
+# Note
+You dont need a pi cam necessarily, you can use any Ip Camera
 
 # Hardware Used
 1) Raspberry Pi 4
