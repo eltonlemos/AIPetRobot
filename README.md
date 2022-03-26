@@ -5,6 +5,8 @@ The Idea was to create a pet robot that had AI ML capabilites. We first used jus
 
 The raspbery pi is good for OpenCv but we soon realized that the frames were slow or would overload the Pi. so out architecture became a remote server doing all the heavy ml work, a raspberry pi doing all the on bot work and arduino doing mechanical work.
 
+# Working
+
 Following is the connection diagram
 
 ![Data connections](https://user-images.githubusercontent.com/61613837/160155450-33876a80-1a64-42f1-a62f-7efb6bfac962.png)
@@ -12,6 +14,14 @@ Following is the connection diagram
 
 Following is the architecture diagram
 ![Architecture Block](https://user-images.githubusercontent.com/61613837/160155640-6d58a3ee-d64b-4f15-aa79-bcf811c5c516.png)
+
+# Features
+1) Detect and track a face (only the head of the bot)
+2) Recognise a face
+3) Understand emotions
+4) Can follow a person wearing Fluorescent Yellow sneakers
+5) Play stone paper sissors
+6) Can play music and dance
 
 # Note
 You dont need a pi cam necessarily, you can use any Ip Camera
