@@ -33,7 +33,7 @@ You dont need a pi cam necessarily, you can use any Ip Camera
 4) IP camera: can be a mobile phone cam or even a Pi cam
 
 # Authors
-* **Elton Lemos** - [icefrostpeng](https://github.com/icefrostpeng)
+* **Elton Lemos** - [eltonlemos](https://github.com/eltonlemos)
 * **Abhishek Ghoshal** - [abhighosh98](https://github.com/abhighosh98)
 * **Aditya Aspat** - Not on Git yet
 
