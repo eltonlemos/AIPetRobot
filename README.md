@@ -2,11 +2,7 @@
 
 ![68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d316e3449304e4d4258324954374c70646d58673337662d7a306b4c78704d385445](https://github.com/user-attachments/assets/64593c8d-1356-4326-978b-ccc044dc5e61)
 
-This was the code we wrote back in Engineering college for our final year project. As of the date of pushing this to Git it has been 2 years since we have seen the code, so some description may be lost to memory.
-
-The Idea was to create a pet robot that had AI ML capabilites. We first used just a raspberry  pi but then we realised its weaknesses and used a an Arduino to do the heavy electronics work.
-
-The raspbery pi is good for OpenCv but we soon realized that the frames were slow or would overload the Pi. so out architecture became a remote server doing all the heavy ml work, a raspberry pi doing all the on bot work and arduino doing mechanical work.
+The AI Pet Robot is an interactive robotic pet designed with AI and machine learning capabilities. This project was developed as a final-year engineering project, focusing on computer vision, speech recognition, and robotics. The system combines a Raspberry Pi for AI processing, an Arduino for motor control, and a remote server for running intensive ML models.
 
 
 # Working
