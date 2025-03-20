@@ -13,10 +13,13 @@ The raspbery pi is good for OpenCv but we soon realized that the frames were slo
 
 Following is the Connection Diagram
 
-![Data connections](https://user-images.githubusercontent.com/61613837/160155450-33876a80-1a64-42f1-a62f-7efb6bfac962.png)
+![image_with_white_bg](https://github.com/user-attachments/assets/2cc73a1c-0137-48a0-940f-bfae9048aff0)
 
 
 Following is the Architecture Diagram
+
+![160155640-6d58a3ee-d64b-4f15-aa79-bcf811c5c516](https://github.com/user-attachments/assets/3196c614-da9c-4691-8cde-2f7be1b9b82c)
+
 
 # Features
 1) Detect and track a face (only the head of the bot)
