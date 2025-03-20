@@ -30,12 +30,15 @@ You dont need a pi cam necessarily, you can use any Ip Camera
 You can view the full demo and explanation at https://www.youtube.com/watch?v=lxDzJWlctn4
 
 Follow function
+
 ![follow](https://github.com/user-attachments/assets/c4754535-6586-4c56-a3d1-01d5d884b05d)
 
 Follow function from the POV of the robot
+
 ![follow_bot_view](https://github.com/user-attachments/assets/805d121b-8805-428d-97ce-728398c869fa)
 
 Face Tracking function
+
 ![face_track](https://github.com/user-attachments/assets/cdc06b3f-073b-4021-8c45-e50a70205c25)
 
 # Hardware Used
