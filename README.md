@@ -18,8 +18,6 @@ Following is the Connection Diagram
 
 Following is the Architecture Diagram
 
-![image_with_white_bg](https://github.com/user-attachments/assets/86547a5c-7db2-485e-b3b4-3f1ba86bece1)
-
 # Features
 1) Detect and track a face (only the head of the bot)
 2) Recognise a face
